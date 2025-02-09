@@ -16,14 +16,14 @@ Developed an application for HBM Consulting to automate accounting processes, im
 
 ## Admin
 ### Screenshots
-![admin1](https://github.com/user-attachments/assets/70ca06f8-d091-4e4e-b3e3-8a36fcddf5f7)
-![admin2](https://github.com/user-attachments/assets/66a45378-dcbc-4c05-a108-e88ef1cc87d)
-![admin3](https://github.com/user-attachments/assets/f4d5a73a-7a87-486d-8a6c-f150e0b2a3fa)
-![admin4](https://github.com/user-attachments/assets/4940074d-c7de-4116-8790-1db38f1fd13c)
-![admin4_1](https://github.com/user-attachments/assets/855f392d-5ee9-4aaf-870f-c65181568301)
-![admin5](https://github.com/user-attachments/assets/9d44cbff-d5f0-4d30-83d0-f6f932ec0ae0)
-![admin6](https://github.com/user-attachments/assets/d3473938-2d54-4350-b6c2-6534161776e6)
-![admin7](https://github.com/user-attachments/assets/5c38cf28-a3e6-4b35-a6d4-cc9347936dc6)
+![Image](https://github.com/user-attachments/assets/58455a65-a3d9-4b72-a55b-f6801a7a03d5)
+![Image](https://github.com/user-attachments/assets/aff1e6d2-c58f-4167-9e12-8d836b92c9cb)
+![Image](https://github.com/user-attachments/assets/8a243278-b172-4082-a94d-9ff960d9df07)
+![Image](https://github.com/user-attachments/assets/34365a65-c3a8-4631-ace5-65661f919fb9)
+![Image](https://github.com/user-attachments/assets/eb475283-c9a6-48bf-8bf9-5b45de9e33c1)
+![Image](https://github.com/user-attachments/assets/fdd97de5-c94b-4bd9-a688-f212a68fb93f)
+![Image](https://github.com/user-attachments/assets/ec7d313d-df36-41dc-a124-738c0e40ff52)
+![Image](https://github.com/user-attachments/assets/68ca573a-378d-4b79-bf20-ffb4e35aba36)
 
 ---
 
