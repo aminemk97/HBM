@@ -3,18 +3,18 @@
 ## Project Overview
 Developed an application for HBM Consulting to automate accounting processes, improving efficiency and accuracy.
 
-## Partie Client
+## Client
 ### Screenshots
-![Image](https://github.com/user-attachments/assets/909e8a95-24fd-4de7-a710-d949fc1f87c2)
-![Image](https://github.com/user-attachments/assets/2813a247-db00-4ca1-932e-b10250af2c6d)
-![Image](https://github.com/user-attachments/assets/1041d7cb-c364-459b-8358-5298f57b06f5)
-![Image](https://github.com/user-attachments/assets/a27b4dd4-7e46-40f3-a146-fd619e7e92f8)
-![Image](https://github.com/user-attachments/assets/d42c2867-1859-4293-bb30-690e70955bbd)
-![Image](https://github.com/user-attachments/assets/bee87348-23ed-4024-8c4c-2adfcdb887a8)
-![Image](https://github.com/user-attachments/assets/e5c91441-190f-4b37-a33b-ccc8f8526022)
-![Image](https://github.com/user-attachments/assets/e6db10ef-a4c5-4c05-a7a9-78d01c042408)
+![Image](https://github.com/user-attachments/assets/3632d073-9727-438f-aa8c-6d3479074a92)
+![Image](https://github.com/user-attachments/assets/a16a0b12-f78e-4f04-ba25-274c08c8d762)
+![Image](https://github.com/user-attachments/assets/b86a320b-6504-4f6b-8c74-fdb13ef2b538)
+![Image](https://github.com/user-attachments/assets/73aac5f7-07dd-4276-8cf7-eef490037ca6)
+![Image](https://github.com/user-attachments/assets/1fab067e-eff4-4c99-8675-8222da12aa0a)
+![Image](https://github.com/user-attachments/assets/b4e5d7e9-3e48-4d25-9e5c-ca58940dc5c9)
+![Image](https://github.com/user-attachments/assets/7be16fff-4715-45fd-9a68-9c45842b6a2a)
+![Image](https://github.com/user-attachments/assets/dc45fe5e-62df-4866-a0d3-d7de4a57fd3f)
 
-## Partie Admin
+## Admin
 ### Screenshots
 ![admin1](https://github.com/user-attachments/assets/70ca06f8-d091-4e4e-b3e3-8a36fcddf5f7)
 ![admin2](https://github.com/user-attachments/assets/66a45378-dcbc-4c05-a108-e88ef1cc87d)
